@@ -13,7 +13,7 @@ Instructions for running the "Worlds of Wonder Adventure Game":
 
 
 Created by:
-  CorpsOfFour
+  CorpsOfFour - 
     Team Members:
       Shawn McBrayer
       Jeremy Fransen
